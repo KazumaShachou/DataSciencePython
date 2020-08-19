@@ -1,2 +1,3 @@
 # DataSciencePython
- DataScience study 
+
+This Reposity is about studies and projects about data Science
